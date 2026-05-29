@@ -2,17 +2,26 @@
 title: "Streptogramins (Quinupristin-Dalfopristin) and Lipopeptides (Daptomycin)"
 subtitle: "Chapter 30"
 author:
-  - name: Jose M. Munita
-  - name: Barbara E. Murray
-  - name: Cesar A. Arias
+  - name: Russell Lewis
 date: last-modified
-bibliography: references.bib
+bibliography: references-streptogramins.bib
 format:
   html:
     toc: true
     toc-depth: 3
     number-sections: true
 ---
+
+## Learning Objectives
+
+After reading this chapter, you should be able to:
+
+1. Describe the mechanism of action of daptomycin
+2. Understand daptomycin's spectrum of activity and susceptibility testing
+3. Explain mechanisms of daptomycin resistance
+4. Apply appropriate dosing for different clinical scenarios
+5. Recognize adverse effects and monitoring requirements
+6. Identify clinical indications for daptomycin use
 
 :::{.callout-note title="Short View Summary"}
 
@@ -52,15 +61,25 @@ format:
 
 Daptomycin is a high-molecular-weight (1620.67 Da) cyclic 13-member lipopeptide antibiotic produced by *Streptomyces roseosporus* that was discovered in the early 1980s (@fig-daptomycin-structure). In 1991, despite clinical trials that showed efficacy, skeletal muscle toxicity was observed with twice-daily doses in phase II trials, which led to discontinuation of clinical studies. The drug was subsequently "resurrected" using once-daily dosing, which reduced the muscle toxicity. Daptomycin was approved for use in 2003 in the United States and in 2006 in Europe.
 
-![Chemical structure of daptomycin](images/fig30-1-daptomycin-structure.png){#fig-daptomycin-structure}
+![Chemical structure of daptomycin](streptogramins-images/fig30-1-daptomycin-structure.png){#fig-daptomycin-structure}
 
 ## Mechanism of Action
+
+![Mechanism of action of daptomycin. Calcium-dependent insertion into the bacterial membrane preferentially at the division septum leads to disruption of membrane architecture, loss of ions, and cell death without significant lysis.](streptogramins-images/damptomycin_MOA.png){#fig-daptomycin-moa fig-align="center"}
 
 The exact mechanism for the antimicrobial activity of daptomycin is not fully understood. This agent targets the cell membrane of gram-positive organisms in a calcium-dependent manner, becoming a de facto cationic antimicrobial peptide [@Silverman2003]. Insights into the mechanism of action of daptomycin suggest that the antibiotic binds to the cell membrane preferentially at the level of the division septum [@Pogliano2012]. The interaction of the antibiotic with the bacterial cell membrane is dependent on the presence of phosphatidylglycerol, a negatively charged phospholipid [@Jung2004]. Once in the membrane, daptomycin, upon oligomerization, produces important distortions in the architecture of the cell membrane that likely result in displacement of membrane proteins essential for cell wall synthesis and cell division [@Straus2006]. More recent data suggest that, along with phosphatidylglycerol, daptomycin closely interacts with lipid-II intermediates, forming a tripartite complex that ultimately impedes peptidoglycan biosynthesis [@MullerA2016]. The irreversible alteration of the cell envelope structure and physiology leads to loss of ions such as potassium that eventually results in bacterial cell death by mechanisms that have yet to be fully elucidated [@Silverman2003].
 
 Furthermore, daptomycin exerts its bactericidal effect against *Staphylococcus aureus* and other gram-positive bacteria without significant cell lysis, which may explain the decreased release of proinflammatory mediators from infected macrophages compared with oxacillin and vancomycin.
 
+:::{.callout-note title="Key Feature: Bactericidal Without Cell Lysis"}
+Unlike β-lactams and vancomycin, daptomycin kills bacteria **without significant cell lysis**, resulting in reduced release of proinflammatory mediators. This may translate to a blunted inflammatory response in severe infections such as endocarditis, though clinical confirmation of this benefit remains an area of ongoing study.
+:::
+
 ## Antimicrobial Activity
+
+:::{.callout-warning title="Susceptibility Testing Requirements"}
+Because the in vitro activity of daptomycin is calcium-dependent, susceptibility testing **must** use calcium-supplemented Mueller-Hinton broth (50 μg/mL calcium). Disk diffusion is **not recommended**. Broth microdilution is the preferred method; gradient diffusion strips (Etest) and automated systems show variable reproducibility with significant interlaboratory variability.
+:::
 
 The spectrum of antimicrobial activity of daptomycin closely overlaps that of glycopeptides. Because the in vitro activity of this drug is dependent on the presence of calcium in the medium, testing for susceptibility to daptomycin needs to be performed with dilution methods using calcium-adjusted Mueller-Hinton broth medium (calcium concentration of 50 μg/mL). Even in these circumstances, daptomycin susceptibility testing has proven challenging. Indeed, Campeau et al. performed broth microdilution to evaluate isolates with a wide range of minimal inhibitory concentration (MIC) values (≥0.15 to >16 μg/mL) and demonstrated significant variability across laboratories [@Campeau2018]. The use of the Kirby-Bauer disk diffusion method is inaccurate and is not recommended. Calcium-supplemented gradient diffusion strips (Etest [bioMérieux, Marcy l'Etoile, France]) for use on agar are available, but discrepancies with broth microdilution and poor interlaboratory reproducibility also has been reported [@Campeau2018]. Automated and semiautomated systems for susceptibility testing have been developed and are also available, but their accuracy is debatable [@Humphries2011].
 
@@ -116,12 +135,46 @@ Some streptococci (e.g., *S. mitis*) are capable of rapidly developing enduring 
 
 ## Distribution and Elimination
 
-The pharmacokinetics of once-daily intravenous daptomycin are linear up to doses of 12 mg/kg with minor accumulation [@Dvorchik2003]. The mean daptomycin peak serum concentrations in healthy volunteers are approximately 55, 86, 116, 130, and 165 μg/mL after a single intravenous dose (infused over 30 minutes) of 4, 6, 8, 10, and 12 mg/kg, respectively [@Dvorchik2003; @Benvenuto2006]. The daptomycin area under the concentration-time curve (AUC~0–24 hr~) at steady state is in the range of 500 and 750 μg•hr/mL for once-daily doses of 4 and 6 mg/kg, respectively, and 850 μg•hr/mL for a dose of 8 mg/kg/day. Daptomycin exhibits a long terminal half-life (7.3–9.6 hours) and small volume of distribution (92–117 mL/kg), suggesting distribution mainly into plasma and interstitial fluid [@Dvorchik2003; @Benvenuto2006].
+The pharmacokinetics of once-daily intravenous daptomycin are linear up to doses of 12 mg/kg with minor accumulation [@Dvorchik2003]. Daptomycin exhibits a long terminal half-life (7.3–9.6 hours) and small volume of distribution (92–117 mL/kg), suggesting distribution mainly into plasma and interstitial fluid [@Dvorchik2003; @Benvenuto2006].
+
+| Parameter | Value |
+|---|---|
+| Half-life | 7.3–9.6 hours |
+| Protein binding | 90–93% |
+| Volume of distribution | 92–117 mL/kg |
+| Elimination | Renal (primarily unchanged) |
+
+: Key pharmacokinetic parameters of daptomycin {#tbl-pk-params}
+
+The mean daptomycin peak serum concentrations in healthy volunteers are approximately 55, 86, 116, 130, and 165 μg/mL after a single intravenous dose (infused over 30 minutes) of 4, 6, 8, 10, and 12 mg/kg, respectively [@Dvorchik2003; @Benvenuto2006]. The daptomycin area under the concentration-time curve (AUC~0–24 hr~) at steady state is in the range of 500 and 750 μg•hr/mL for once-daily doses of 4 and 6 mg/kg, respectively, and 850 μg•hr/mL for a dose of 8 mg/kg/day. The PK/PD parameters that best correlate with efficacy are peak/MIC and AUC/MIC ratios, supporting the concentration-dependent killing profile of daptomycin.
+
+| Dose (mg/kg) | Peak C~max~ (μg/mL) | AUC~0–24h~ (μg·hr/mL) |
+|---|---|---|
+| 4 | ~55 | ~500 |
+| 6 | ~86 | ~750 |
+| 8 | ~116 | ~850 |
+| 10 | ~130 | — |
+| 12 | ~165 | — |
+
+: Daptomycin peak serum concentrations and AUC by dose in healthy volunteers [@Dvorchik2003; @Benvenuto2006] {#tbl-pk-conc}
 
 Daptomycin has significant affinity for plasma proteins in humans (90%–93% protein bound) [@Dvorchik2003; @Benvenuto2006] but lower affinity for tissue proteins and is eliminated primarily through renal excretion, largely as unchanged drug. Little daptomycin crosses the uninflamed blood-brain barrier (~2%), although it was effective for the treatment of *Streptococcus pneumoniae* in a rabbit meningitis model of central nervous system (CNS) infection (penetration rate of ~6%) [@Cottagnoud2004]. A similar percentage of CNS penetration (5%) was reported in a clinical case of methicillin-susceptible *S. aureus* (MSSA) meningitis treated with daptomycin [@Lee2008]. Mean daptomycin concentrations in inflammatory skin blisters of 68% of those in plasma have been observed in healthy volunteers after a dose of 4 mg/kg/day [@Wise2002]. In an experimental endocarditis model, daptomycin achieved concentrations in cardiac vegetations that were about half those in serum and with homogeneous distribution within the vegetations.
 
 :::{.callout-warning title="Pulmonary Surfactant Interaction"}
 Important to note, the antimicrobial activity of daptomycin is abolished by the interaction with pulmonary surfactant, resulting in failure to reduce bacterial burden in a mouse model of bronchoalveolar pneumonia caused by *S. pneumoniae*. On the other hand, daptomycin was effective in an animal model of *S. aureus* hematogenous pneumonia and of inhalation anthrax.
+:::
+
+:::{.callout-note title="Tissue Penetration Summary"}
+**Good penetration:**
+
+- Skin/soft tissue (~68% of plasma concentrations)
+- Cardiac vegetations (~50% of serum concentrations, homogeneous distribution)
+
+**Poor penetration:**
+
+- CNS (~2–6%; may still be effective in meningitis models at higher doses)
+- Bone (variable; C~max~ of 4.7 μg/mL reported in diabetic foot infection)
+- **Lungs: activity abolished by pulmonary surfactant — daptomycin should never be used for pneumonia**
 :::
 
 Relatively poor penetration of daptomycin into uninfected and infected bone has been shown in a rabbit model of osteomyelitis. However, maximal concentration (C~max~) of daptomycin in metatarsal bones of a group of patients with diabetic foot infection was 4.7 μg/mL [@Traunmuller2010].
@@ -131,6 +184,17 @@ Relatively poor penetration of daptomycin into uninfected and infected bone has 
 The in vivo parameters that best correlated with efficacy in a neutropenic thigh model of murine infection with *S. aureus* and *S. pneumoniae* were the peak/MIC and the 24-hour AUC/MIC ratios [@Louie2001]. In the same animal model, daptomycin unbound (free drug) peak concentrations of 2.5–7 and 7–25 times the MIC were required to produce a bacteriostatic and bactericidal effect, respectively [@Louie2001]. Clinical studies have not been able to confirm a specific AUC/MIC cutoff value to predict clinical efficacy. Daptomycin was shown to produce an in vitro postantibiotic effect with a mean of 2.5 and 1.7 hours against staphylococci and pneumococci, respectively [@Pankuch2003]. The in vivo postantibiotic effect in a neutropenic murine thigh infection model was 5 hours against *S. aureus* and 10.8 hours against *S. pneumoniae* [@Louie2001]. Against *E. faecalis*, daptomycin exerted a dose-dependent postantibiotic effect that was longer than that noted with vancomycin (0.6–6.7 hours and 0.5–1.0 hours, respectively) [@Safdar2004].
 
 # Drug Dosage and Administration
+
+| CrCl | Dose Adjustment |
+|---|---|
+| ≥30 mL/min | No adjustment required |
+| <30 mL/min | Extend to every 48 hours |
+| Hemodialysis | Administer after HD session; every 48 hours |
+| CRRT (CVVHD/CVVHDF) | Variable; 8 mg/kg q48h suggested — consider TDM |
+
+: Renal dose adjustment for daptomycin {#tbl-renal-dosing}
+
+Daptomycin-related muscle toxicity should be monitored more frequently than once weekly in patients with renal insufficiency.
 
 Daptomycin is administered intravenously, diluted in 0.9% sodium chloride, once daily (by injection over a 2-minute period or infused in 30 minutes); the drug is not compatible with dextrose-containing solutions. In the pediatric population, the recommendation is to infuse over 30 minutes for patients between 7 and 17 years of age, and over a 60-minute period in patients 1–6 years old [@FDA2020]. The approved doses are 4 and 6 mg/kg/day for acute bacterial skin and skin structure infection (ABSSSI) and *S. aureus* bacteremia and right-sided endocarditis, respectively, although experts now recommend a higher dose of 8–12 mg/kg/day for serious infections (@tbl-dosing). In patients on hemodialysis, the dose should be given after the completion of the hemodialysis. Dosage adjustment is required in patients with a creatinine clearance of <30 mL/min, including patients on peritoneal dialysis and hemodialysis, in whom daptomycin should be prescribed every 48 hours. This proposed regimen yielded adequate serum levels even in 3-day interdialysis periods in one study [@Salama2010] but not in another [@Vilay2010]. In patients undergoing extended intermittent dialysis (starting 8 hours after daptomycin infusion), a daily dose of 6 mg/kg appears to be needed [@Khadzhynov2011].
 
@@ -168,6 +232,16 @@ In clinical trials using daptomycin at 6 mg/kg/day, the frequency of gastrointes
 
 Daptomycin did not affect the QTc interval in human studies, and in the bacteremia trial the rate of nephrotoxicity was lower in those on daptomycin than in those in the comparator arm of the study, which included gentamicin for the first few days [@Fowler2006]. Interesting to note, daptomycin has been reported to exert a protective role on the aminoglycoside-induced renal toxicity by counteracting the inhibition of the phospholipase activity induced by these drugs, especially gentamicin.
 
+| Adverse Effect | Frequency | Notes |
+|---|---|---|
+| CPK elevation / myopathy | Dose- and duration-dependent | Primary monitoring concern; see thresholds above |
+| Peripheral neuropathy | 9% vs. 2% (comparator) | Usually mild and reversible |
+| Eosinophilic pneumonia | Rare | After ~10 days of therapy; stop drug |
+| GI symptoms | Common | Similar rates to comparators |
+| Renal / hepatic toxicity | Rare | Nephrotoxicity may be lower than aminoglycosides |
+
+: Summary of daptomycin adverse effects {#tbl-adverse-effects}
+
 ## Eosinophilic Pneumonia
 
 Confirmed cases of acute eosinophilic pneumonia associated with the use of daptomycin have been described [@Silverman2007]. This potentially serious event of unclear mechanism is rare, usually occurs after 10 days of therapy, tends to affect older patients, and is associated with fever, diffuse pulmonary infiltrates, hypoxemia, and a high percentage of eosinophils in bronchoalveolar lavage (although peripheral eosinophilia might be absent) or eosinophilic pneumonia at lung biopsy. A high degree of clinical suspicion is essential because discontinuation of daptomycin is followed by resolution of the clinical picture. Corticosteroids have been used for treatment of this condition in some cases, and chronic corticosteroid dependence has been reported.
@@ -177,6 +251,27 @@ Confirmed cases of acute eosinophilic pneumonia associated with the use of dapto
 Because daptomycin is not metabolized through the cytochrome P-450 system, no interactions are expected with drugs metabolized in this system. CPK levels should be monitored more frequently when daptomycin is coadministered with other drugs carrying potential muscle toxicity, such as statins. Daptomycin may cause a false increase in the prothrombin time depending on the reagents and assay used to measure it; if this occurs, blood should be drawn at the lowest serum daptomycin concentration for prothrombin time assessment.
 
 # Clinical Uses
+
+## When to Consider Daptomycin
+
+- MRSA infection with vancomycin MIC ≥1.5–2 μg/mL
+- Vancomycin failure or intolerance
+- VRE infections (bacteremia, endocarditis)
+- Concern for vancomycin-related nephrotoxicity
+- Desire for once-daily dosing in an outpatient or OPAT setting
+
+## When NOT to Use Daptomycin
+
+:::{.callout-important}
+**NEVER use daptomycin for pneumonia.** Daptomycin is inactivated by pulmonary surfactant — this applies even to MRSA pneumonia with elevated vancomycin MICs. Use linezolid or other appropriate alternatives instead.
+:::
+
+Additional contraindications and cautions:
+
+- Known daptomycin-resistant organism
+- Prior daptomycin treatment failure
+- Active rhabdomyolysis
+- Undrained focus of infection (inadequate source control)
 
 ## Skin and Soft Tissue Infections
 
@@ -200,11 +295,42 @@ Several retrospective studies have compared the use of daptomycin versus vancomy
 
 ### Combination Therapy
 
+| Combination Partner | Evidence Level | Notes |
+|---|---|---|
+| Oxacillin / nafcillin | In vitro + animal + case series | Exploits seesaw effect; prevents resistance emergence |
+| Ceftaroline | Strong case series data | Intrinsic anti-MRSA activity + seesaw synergy |
+| Ceftriaxone / cefotaxime / ertapenem | In vitro + animal | Useful for MSSA or enterococcal infections |
+| Gentamicin | In vitro synergy | Nephrotoxicity risk limits clinical use |
+| Rifampin | Variable (in vitro) | Antagonism reported in MRSA endocarditis models; use with caution |
+| Fosfomycin | Emerging | Limited availability in many regions |
+
+: Potential combination partners for daptomycin with summary of evidence {#tbl-combinations}
+
 The combination of daptomycin with other agents against staphylococci has been explored in in vitro and in vivo models. The bactericidal activity of daptomycin against *S. aureus* was enhanced by the addition of gentamicin in various in vitro models. The interaction between daptomycin and rifampin in vitro has been strain-dependent, and neither synergism nor antagonism has been reported consistently. However, when this combination was evaluated in an experimental MRSA endocarditis model, antagonism between these two antibiotics was reported [@Credito2007]. High-dose daptomycin (10 mg/kg/day) and combination of standard-dose daptomycin with gentamicin or rifampin prevented the development of daptomycin-nonsusceptible isolates that appeared when daptomycin at 6 mg/kg/day was used in the simulated vegetations model using *S. aureus* strains.
 
 Another approach includes the coadministration of a β-lactam plus daptomycin to take advantage of the previously mentioned seesaw effect. In vivo studies have also shown that this strategy prevented the emergence of isolates with high daptomycin MICs as compared with daptomycin monotherapy [@Rose2012]. Six patients with persistent non–catheter-related MRSA bacteremia were successfully treated with daptomycin (8–10 mg/kg/day) plus nafcillin (or oxacillin in one case) after the failure of multiple regimens, including vancomycin and daptomycin (6–8 mg/kg/day) monotherapy [@Dhand2011]. In addition, there are reports of patients with infective endocarditis due to daptomycin-nonsusceptible MRSA (one case of which was also ceftaroline resistant and vancomycin intermediate) and persistent bacteremia that were successfully treated with the addition of ceftaroline to daptomycin [@Barber2015; @Sakoulas2014b]; this combination also restored in vitro activity of daptomycin against this strain [@Sakoulas2014b].
 
 Therefore, based on the concentration-dependent activity of daptomycin and the reported risk of development of resistance during treatment of deep-seated staphylococcal infections, clinicians often use high-dose daptomycin (e.g., 8–10 mg/kg/day), especially in patients in whom vancomycin therapy has previously failed. Other approaches considered by some experts include the use of combination therapy (with rifampin, gentamicin, or β-lactams) when treating serious infections caused by staphylococci.
+
+# Summary and Key Clinical Pearls
+
+## Daptomycin Key Points
+
+1. **Calcium-dependent** cyclic lipopeptide — susceptibility testing requires calcium-supplemented broth
+2. Bactericidal without cell lysis; may reduce inflammatory mediator release
+3. Spectrum overlaps glycopeptides; active against VISA, VRSA, and VRE
+4. **Never use for pneumonia** — inactivated by pulmonary surfactant
+5. FDA-approved doses (4–6 mg/kg/day) are often considered subtherapeutic for serious infections; experts recommend **8–12 mg/kg/day**
+6. Monitor **CPK** at baseline and weekly; discontinue if CPK >1000 units/L with symptoms or >2000 units/L without
+7. Renal dosing: **extend the interval** (every 48 hours) rather than reducing the dose
+
+:::{.callout-tip title="Clinical Pearls"}
+- Consider daptomycin when vancomycin MIC ≥1.5–2 μg/mL for MRSA
+- For persistent bacteremia: switch to **high-dose daptomycin + β-lactam**, ensure source control
+- The **seesaw effect** makes β-lactam combinations rational even against MRSA
+- Statins increase CPK risk — consider holding during daptomycin therapy
+- In patients on CRRT, drug levels are highly variable; therapeutic drug monitoring is recommended when feasible
+:::
 
 # References
 
