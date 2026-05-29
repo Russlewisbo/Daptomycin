@@ -21,7 +21,9 @@ lightbox: true
 bibliography: references-streptogramins.bib
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
+
 ## Daptomycin and Streptogramins {background-video="streptogramins-images/staphy.mp4" background-video-loop="true" background-video-muted="true" background-opacity="0.35" background-color="#b20e10"}
+
 <br>
 
 <br>
@@ -40,31 +42,27 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> Slides and course materials: [www.idpadovaid.com](https://idpadova.com/)
 
-
-
 ## Learning Objectives
+
 <br>
 
 After this lecture, you should be able to:
 
-1. Describe the mechanism of action of daptomycin
-2. Understand daptomycin's spectrum of activity and susceptibility testing
-3. Explain mechanisms of daptomycin resistance
-4. Apply appropriate dosing for different clinical scenarios
-5. Recognize adverse effects and monitoring requirements
-6. Identify clinical indications for daptomycin use
+1.  Describe the mechanism of action of daptomycin
+2.  Understand daptomycin's spectrum of activity and susceptibility testing
+3.  Explain mechanisms of daptomycin resistance
+4.  Apply appropriate dosing for different clinical scenarios
+5.  Recognize adverse effects and monitoring requirements
+6.  Identify clinical indications for daptomycin use
 
-:::{.notes}
+::: notes
 This lecture covers two important antibiotic classes used primarily for gram-positive infections. We'll focus mainly on daptomycin as it's more commonly used clinically. Quinupristin-dalfopristin has limited use due to side effects and availability issues.
 :::
 
-
-
-# Part 1: Daptomycin Basics {background-color="#b20e10"}
-
-
+# Part 1: Daptomycin basics {background-color="#b20e10"}
 
 ## What is Daptomycin?
+
 <br>
 
 - **Cyclic lipopeptide antibiotic** (1620.67 Da)
@@ -72,42 +70,31 @@ This lecture covers two important antibiotic classes used primarily for gram-pos
 - Discovered in the 1980s- Eli Lilly
 - FDA approved: 2003 (US), 2006 (Europe)
 
-:::{.aside}
+::: aside
 Daptomycin has an interesting history - it was initially shelved due to muscle toxicity seen with twice-daily dosing. The "resurrection" came when researchers discovered that once-daily dosing dramatically reduced this toxicity while maintaining efficacy.
 :::
 
-
-
 ## Chemical Structure
+
 <br>
 
-![Daptomycin Structure](images/fig30-1-daptomycin-structure.png){width="80%"}
+![](streptogramins-images/daptomycin.png){fig-align="center"}
 
-:::{.notes}
+::: aside
 The structure shows the cyclic peptide core with a lipophilic tail (decanoic acid side chain). This amphipathic structure is critical for membrane insertion. The molecule contains 13 amino acids arranged in a cyclic structure.
 :::
 
----
-
 ## Mechanism of Action
-<br>
 
-:::{.incremental}
-1. **Calcium-dependent** binding to bacterial membrane
-2. Preferential binding at **division septum**
-3. Requires **phosphatidylglycerol** in membrane
-4. **Oligomerization** in membrane
-5. Membrane distortion → protein displacement
-6. Ion leakage (K⁺) → cell death
-:::
+![](streptogramins-images/damptomycin_MOA.png){fig-align="center" width="800"}
 
-:::{.notes}
+::: aside
 The calcium dependence is clinically important because susceptibility testing must use calcium-supplemented media. The binding at the division septum may explain why actively dividing cells are more susceptible. Recent work shows daptomycin also interacts with lipid-II, forming a tripartite complex that impedes peptidoglycan synthesis.
 :::
 
----
 
-## Key Feature: Bactericidal Without Lysis
+## Key Feature: Bactericidal without lysis
+
 <br>
 
 - Kills bacteria **without significant cell lysis**
@@ -115,17 +102,16 @@ The calcium dependence is clinically important because susceptibility testing mu
 - Less release of proinflammatory mediators
 - Potential advantage in severe infections
 
-:::{.notes}
-This is a significant clinical advantage compared to β-lactams and vancomycin, which cause cell lysis and release of inflammatory mediators. This may translate to less inflammatory injury in infections like endocarditis.
+::: aside
+This may be a clinical advantage compared to β-lactams and vancomycin, which cause cell lysis and release of inflammatory mediators. It has been hypothesized that this may translate to less inflammatory injury in infections like endocarditis.
 :::
 
----
 
-# Part 2: Antimicrobial Spectrum
+# Part 2: Antimicrobial spectrum {background-color="#b20e10"}
 
----
 
-## Spectrum of Activity
+## Spectrum of activity
+
 <br>
 
 **Active against:**
@@ -136,13 +122,14 @@ This is a significant clinical advantage compared to β-lactams and vancomycin, 
 - Streptococci
 - Some gram-positive anaerobes
 
-:::{.notes}
-The spectrum closely overlaps glycopeptides but daptomycin often retains activity against organisms with decreased vancomycin susceptibility. Activity against VRE is particularly important given limited treatment options.
+::: aside
+The spectrum closely overlaps glycopeptides but daptomycin often retains activity against organisms with decreased vancomycin susceptibility. **Activity against VRE is particularly important given limited treatment options.**
 :::
 
----
 
-## Organisms with Variable/No Activity
+
+## Organisms with variable/No activity
+
 <br>
 
 **Variable activity:**
@@ -156,18 +143,18 @@ The spectrum closely overlaps glycopeptides but daptomycin often retains activit
 - Gram-negative organisms
 - **Pulmonary infections** (surfactant inactivation!)
 
-:::{.notes}
-CRITICAL teaching point: Daptomycin is inactivated by pulmonary surfactant and should NEVER be used for pneumonia! This is a common board question and clinical error.
+::: aside
+Daptomycin is inactivated by pulmonary surfactant and should NEVER be used for pneumonia! This is a common board question and clinical error.
 :::
 
----
 
-## Susceptibility Testing Challenges
+
+## Susceptibility testing challenges
+
 <br>
 
-:::{.callout-warning}
-**Calcium-supplemented Mueller-Hinton broth is REQUIRED**
-(50 μg/mL calcium concentration)
+::: callout-warning
+**Calcium-supplemented Mueller-Hinton broth is REQUIRED** (50 μg/mL calcium concentration)
 :::
 
 - Disk diffusion: **NOT recommended**
@@ -175,36 +162,35 @@ CRITICAL teaching point: Daptomycin is inactivated by pulmonary surfactant and s
 - Broth microdilution: Preferred method
 - Significant interlaboratory variability exists
 
-:::{.notes}
+::: notes
 Susceptibility testing for daptomycin is notoriously challenging. Labs should be aware that results can vary significantly. When possible, broth microdilution should be used, especially for serious infections.
 :::
 
----
 
-## Susceptibility Breakpoints
+## Susceptibility breakpoints
+
 <br>
 
-| Organism | Susceptible | Intermediate | Resistant |
-|----------|-------------|--------------|-----------|
-| Staphylococci | ≤1 μg/mL | - | >1 μg/mL |
-| Streptococci | ≤1 μg/mL | - | >1 μg/mL |
-| *E. faecalis* (FDA) | ≤4 μg/mL | - | - |
-| *E. faecium* (CLSI 2019) | - | 2-4 μg/mL (SDD) | ≥8 μg/mL |
+| Organism                 | Susceptible | Intermediate    | Resistant |
+|--------------------------|-------------|-----------------|-----------|
+| Staphylococci            | ≤1 μg/mL    | \-              | \>1 μg/mL |
+| Streptococci             | ≤1 μg/mL    | \-              | \>1 μg/mL |
+| *E. faecalis* (FDA)      | ≤4 μg/mL    | \-              | \-        |
+| *E. faecium* (CLSI 2019) | \-          | 2-4 μg/mL (SDD) | ≥8 μg/mL  |
 
-:::{.notes}
+::: notes
 Note the important 2019 CLSI change for E. faecium - the susceptible category was eliminated! The SDD (susceptible dose-dependent) category requires high-dose daptomycin (8-12 mg/kg/day). EUCAST has not established breakpoints for daptomycin.
 :::
 
----
 
-# Part 3: Resistance Mechanisms
+# Part 3: Resistance Mechanisms {background-color="#b20e10"}
 
----
 
-## Resistance is Uncommon But...
+## Resistance is uncommon but...
+
 <br>
 
-- In vitro resistance after serial passage is uncommon
+- *In vitro*- resistance after serial passage is uncommon
 - Clinical resistance emerges during therapy
 - 6% of patients in pivotal bacteremia trial developed elevated MICs
 - Risk factors:
@@ -212,13 +198,13 @@ Note the important 2019 CLSI change for E. faecium - the susceptible category wa
   - Prior vancomycin exposure
   - Inadequate dosing
 
-:::{.notes}
+::: notes
 The key message is that while spontaneous resistance is rare, on-treatment emergence is a real concern, especially with undrained foci. This is why source control is essential and why combination therapy may be considered for complicated infections.
 :::
 
----
 
-## Phenotypic Changes in Resistant Strains
+## Phenotypic changes in resistant strains
+
 <br>
 
 - Enhanced membrane fluidity
@@ -228,33 +214,37 @@ The key message is that while spontaneous resistance is rare, on-treatment emerg
 - Increased pigment production
 - Decreased daptomycin binding
 
-:::{.notes}
+::: aside
 These changes all converge on reducing daptomycin's ability to bind and insert into the membrane. The reduction in phosphatidylglycerol is particularly important as this is the primary membrane target.
 :::
 
----
 
-## Genetic Basis (*S. aureus*)
+
+## Genetic basis (*S. aureus*)
+
 <br>
 
 Key genes implicated:
 
-1. ***mprF*** - LPG synthase/flippase → increased surface charge
-2. ***yycFG/walKR*** - Cell envelope homeostasis
-3. ***vraSR*** - Cell wall stress response
-4. ***dlt*** operon - D-alanylation of teichoic acids
-5. ***pgsA/cls*** - Phospholipid metabolism
+1.  ***mprF*** - LPG synthase/flippase → increased surface charge
+2.  ***yycFG/walKR*** - Cell envelope homeostasis
+3.  ***vraSR*** - Cell wall stress response
+4.  ***dlt*** operon - D-alanylation of teichoic acids
+5.  ***pgsA/cls*** - Phospholipid metabolism
 
-:::{.notes}
+<br> <br>
+
+::: aside
 Understanding these mechanisms helps explain the seesaw effect. Mutations that increase positive charge or decrease phosphatidylglycerol to resist daptomycin often make the organism more susceptible to β-lactams. This is the basis for combination therapy.
 :::
 
----
 
-## The "Seesaw Effect"
+
+## The "Seesaw effect"
+
 <br>
 
-:::{.callout-tip title="Clinical Pearl"}
+::: {.callout-tip title="Clinical Pearl"}
 Daptomycin resistance often leads to **increased β-lactam susceptibility**
 :::
 
@@ -263,13 +253,14 @@ Daptomycin resistance often leads to **increased β-lactam susceptibility**
 - Multiple β-lactams effective (oxacillin, ceftaroline, etc.)
 - May prevent emergence of resistance
 
-:::{.notes}
+::: aside
 This is one of the most important practical concepts. When you see a patient failing daptomycin or with an isolate showing elevated MICs, consider adding a β-lactam. Even against MRSA, adding oxacillin or ceftaroline can be beneficial - not because of intrinsic activity, but because of the seesaw effect.
 :::
 
----
 
-## Enterococcal Resistance
+
+## Enterococcal resistance
+
 <br>
 
 - LiaFSR system is **central** to resistance
@@ -278,108 +269,117 @@ This is one of the most important practical concepts. When you see a patient fai
 - Additional mutations in *gdpD*, *cls* genes
 - Resistance can emerge WITHOUT prior exposure
 
-:::{.notes}
+::: aside
 Enterococcal resistance appears to be evolving somewhat independently of staphylococcal resistance. The LiaFSR system acts as a "sentinel" detecting antimicrobial peptides and orchestrating the stress response.
 :::
 
----
 
-# Part 4: Pharmacokinetics
 
----
+# Part 4: Pharmacokinetics {background-color="#b20e10"}
 
-## Key PK Parameters
+
+
+## Key PK parameters
+
 <br>
 
-| Parameter | Value |
-|-----------|-------|
-| Half-life | 7.3-9.6 hours |
-| Protein binding | 90-93% |
-| Volume of distribution | 92-117 mL/kg |
-| Elimination | Renal (unchanged) |
+| Parameter              | Value             |
+|------------------------|-------------------|
+| Half-life              | 7.3-9.6 hours     |
+| Protein binding        | 90-93%            |
+| Volume of distribution | 92-117 mL/kg      |
+| Elimination            | Renal (unchanged) |
 
-:::{.notes}
+::: aside
 The long half-life supports once-daily dosing. High protein binding means the drug distributes mainly to plasma and interstitial fluid. Primarily renal elimination necessitates dose adjustment in renal impairment.
 :::
 
----
 
-## Peak Concentrations by Dose
+
+## Peak concentrations by dose
+
 <br>
 
 | Dose (mg/kg) | Peak (μg/mL) | AUC (μg·hr/mL) |
 |--------------|--------------|----------------|
-| 4 | ~55 | ~500 |
-| 6 | ~86 | ~750 |
-| 8 | ~116 | ~850 |
-| 10 | ~130 | - |
-| 12 | ~165 | - |
+| 4            | \~55         | \~500          |
+| 6            | \~86         | \~750          |
+| 8            | \~116        | \~850          |
+| 10           | \~130        | \-             |
+| 12           | \~165        | \-             |
 
-:::{.notes}
+::: aside
 Note the linear pharmacokinetics up to 12 mg/kg. This supports the use of high-dose daptomycin in serious infections. PK/PD parameters correlating with efficacy are peak/MIC and AUC/MIC ratios.
 :::
 
----
 
-## Tissue Penetration
+## Tissue penetration
+
 <br>
 
 **Good penetration:**
 
-- Skin/soft tissue (~68% of plasma)
-- Cardiac vegetations (~50% of serum)
+- Skin/soft tissue (\~68% of plasma)
+- Cardiac vegetations (\~50% of serum)
 
 **Poor penetration:**
 
-- CNS (~2-6%)
+- CNS (\~2-6%)
 - Bone (variable)
 - **Lungs (inactivated by surfactant!)**
 
-:::{.notes}
-Again emphasize - DO NOT use for pneumonia! The good penetration into vegetations supports its use in endocarditis. Despite poor bone penetration, it has been used successfully in osteomyelitis, possibly due to concentration-dependent killing.
+::: aside
+DO NOT use for pneumonia! The good penetration into vegetations supports its use in endocarditis. Despite poor bone penetration, it has been used successfully in osteomyelitis, possibly due to concentration-dependent killing.
 :::
 
----
 
-# Part 5: Dosing
 
----
+# Part 5: Dosing {background-color="#b20e10"}
 
-## FDA-Approved Dosing
+
+
+## FDA-EMA approved dosing
+
 <br>
 
-| Indication | Dose | Route |
-|------------|------|-------|
-| ABSSSI | 4 mg/kg q24h | IV |
-| Bacteremia/Right-sided endocarditis | 6 mg/kg q24h | IV |
+| Indication                          | Dose         | Route |
+|-------------------------------------|--------------|-------|
+| ABSSSI                              | 4 mg/kg q24h | IV    |
+| Bacteremia/Right-sided endocarditis | 6 mg/kg q24h | IV    |
+
+<br> <br>
 
 **BUT...**
 
+<br> <br>
+
 Experts recommend **8-12 mg/kg/day** for serious infections!
 
-:::{.notes}
+::: notes
 This is a critical point - FDA-approved doses are considered by many experts to be inadequate for serious infections. Data shows better outcomes with higher doses, especially for bacteremia with high mortality risk.
 :::
 
----
 
-## Renal Dose Adjustment
+
+## Renal dose adjustment
+
 <br>
 
-| CrCl | Dose Adjustment |
-|------|-----------------|
-| ≥30 mL/min | No adjustment |
-| <30 mL/min | Every 48 hours |
-| Hemodialysis | After HD, q48h |
-| CRRT | Variable - consider TDM |
+| CrCl         | Dose Adjustment         |
+|--------------|-------------------------|
+| ≥30 mL/min   | No adjustment           |
+| \<30 mL/min  | Every 48 hours          |
+| Hemodialysis | After HD, q48h          |
+| CRRT         | Variable - consider TDM |
 
-:::{.notes}
+::: aisde
 For patients on CRRT, there's no uniform recommendation. Drug monitoring may be helpful. Some suggest 8 mg/kg q48h for CVVHDF. Monitor CPK more frequently in renal impairment.
 :::
 
----
 
-## Special Populations
+
+## Special populations
+
 <br>
 
 - **Obesity**: No dose adjustment (use actual body weight)
@@ -387,17 +387,18 @@ For patients on CRRT, there's no uniform recommendation. Drug monitoring may be 
 - **Pediatrics**: FDA-approved, age-based dosing
 - **Pregnancy**: Category B (insufficient human data)
 
-:::{.notes}
+::: notes
 For pediatrics, doses are weight and age-based: 12-17 years: 5 mg/kg, 7-11 years: 7 mg/kg, 2-6 years: 9 mg/kg, 12-23 months: 12 mg/kg.
 :::
 
----
 
-# Part 6: Adverse Effects
 
----
+# Part 6: Adverse effects {background-color="#b20e10"}
 
-## Muscle Toxicity (Primary Concern)
+
+
+## Muscle toxicity (Primary Concern)
+
 <br>
 
 - **CPK elevation** (dose and duration dependent)
@@ -406,51 +407,58 @@ For pediatrics, doses are weight and age-based: 12-17 years: 5 mg/kg, 7-11 years
   - C~min~ ≥24.3 mg/L
   - Concurrent statin use
   - Renal impairment
-  - Duration >7 days
+  - Duration \>7 days
 
-:::{.notes}
+::: aside
 Muscle toxicity was the reason daptomycin was initially shelved. Once-daily dosing dramatically reduced this, but it remains the primary monitoring concern. The microscopic findings show degeneration-regeneration without lysis or fibrosis.
 :::
 
----
 
-## CPK Monitoring & Management
+
+## CPK monitoring & management
+
 <br>
 
-:::{.callout-warning title="When to Stop Daptomycin"}
-- CPK >1000 units/L **WITH** symptoms
-- CPK >2000 units/L (10× ULN) even without symptoms
+::: {.callout-warning title="When to Stop Daptomycin"}
+- CPK \>1000 units/L **WITH** symptoms
+- CPK \>2000 units/L (10× ULN) even without symptoms
 :::
 
+<br> 
 **Monitor:**
 
 - Baseline CPK before starting
 - Weekly CPK (more often in renal impairment)
 - Weekly in patients on statins
 
-:::{.notes}
+::: notes
 Symptoms typically appear after 7+ days of therapy and resolve within 3 days of stopping. Consider holding statins during daptomycin therapy if possible.
 :::
 
----
 
-## Other Adverse Effects
+
+## Other adverse effects
+
 <br>
 
-| Effect | Frequency | Notes |
-|--------|-----------|-------|
-| Eosinophilic pneumonia | Rare | After ~10 days; stop drug |
-| Peripheral neuropathy | 9% vs 2% | Usually mild, reversible |
-| GI symptoms | Common | Similar to comparators |
-| Renal/hepatic | Rare | May be protective vs aminoglycosides |
+| Effect                 | Frequency | Notes                                |
+|------------------------|-----------|--------------------------------------|
+| Eosinophilic pneumonia | Rare      | After \~10 days; stop drug           |
+| Peripheral neuropathy  | 9% vs 2%  | Usually mild, reversible             |
+| GI symptoms            | Common    | Similar to comparators               |
+| Renal/hepatic          | Rare      | May be protective vs aminoglycosides |
 
-:::{.notes}
+
+<br>
+
+::: aside
 Eosinophilic pneumonia is rare but potentially serious. Classic presentation: fever, dyspnea, pulmonary infiltrates, eosinophilia (peripheral or in BAL). High clinical suspicion needed - resolves with discontinuation, corticosteroids may help.
 :::
 
----
+
 
 ## Drug Interactions
+
 <br>
 
 **Minimal CYP450 interactions** (not metabolized hepatically)
@@ -460,33 +468,32 @@ Monitor closely with:
 - **Statins** - increased CPK risk
 - PT/INR assays - may cause false elevation
 
-:::{.notes}
+::: aside
 The lack of CYP450 metabolism is advantageous as it reduces drug-drug interactions. However, the combination with statins is particularly important given the shared muscle toxicity concern.
 :::
 
----
 
-# Part 7: Clinical Applications
+# Part 7: Clinical applications
 
----
 
-## FDA-Approved Indications
+
+## FDA-approved Indications
+
 <br>
 
-1. **ABSSSI** (Acute Bacterial Skin & Skin Structure Infections)
-   - *S. aureus* (MSSA, MRSA)
-   - *Streptococcus pyogenes*
-   - *E. faecalis* (vancomycin-susceptible)
+1.  **ABSSSI** (Acute Bacterial Skin & Skin Structure Infections)
+    - *S. aureus* (MSSA, MRSA)
+    - *Streptococcus pyogenes*
+    - *E. faecalis* (vancomycin-susceptible)
+2.  ***S. aureus*** **bacteremia & right-sided endocarditis**
 
-2. ***S. aureus* bacteremia & right-sided endocarditis**
-
-:::{.notes}
+::: aside
 These are the official indications, but daptomycin is widely used off-label for other gram-positive infections, particularly VRE infections and left-sided endocarditis when other options fail.
 :::
 
----
 
-## Off-Label Uses
+## Off-label uses
+
 <br>
 
 - **VRE infections** (bacteremia, endocarditis)
@@ -495,13 +502,14 @@ These are the official indications, but daptomycin is widely used off-label for 
 - Prosthetic joint infections
 - CNS infections (limited data)
 
-:::{.notes}
+::: aside
 For VRE, daptomycin is often a first-line choice given limited alternatives. For left-sided endocarditis, combination therapy is typically used. High doses (8-12 mg/kg) are recommended for serious infections.
 :::
 
----
 
-## When to Consider Daptomycin
+
+## When to consider daptomycin
+
 <br>
 
 - MRSA with vancomycin MIC ≥1.5-2 μg/mL
@@ -510,16 +518,17 @@ For VRE, daptomycin is often a first-line choice given limited alternatives. For
 - Concern for nephrotoxicity
 - Desire for once-daily dosing
 
-:::{.notes}
+::: aside
 The threshold for switching from vancomycin based on MIC is debated, but many clinicians become concerned with MICs approaching or at 2 μg/mL (the current breakpoint). Retrospective data suggest better outcomes with daptomycin in these scenarios.
 :::
 
----
 
-## When NOT to Use Daptomycin
+
+## When NOT to use daptomycin
+
 <br>
 
-:::{.callout-important}
+::: callout-important
 **NEVER use for pneumonia!**
 :::
 
@@ -530,31 +539,32 @@ Also avoid:
 - Active rhabdomyolysis
 - Untreated source of infection
 
-:::{.notes}
+::: aside
 The pneumonia contraindication cannot be overemphasized. This is true even for MRSA pneumonia where vancomycin MIC is elevated - use linezolid or other alternatives instead.
 :::
 
----
 
-# Part 8: Combination Therapy Strategies
+# Part 8: Combination therapy strategies {background-color="#b20e10"}
 
----
+
 
 ## Rationale for Combinations
+
 <br>
 
-1. Prevent emergence of resistance
-2. Exploit the seesaw effect
-3. Enhance bactericidal activity
-4. Treat complicated/deep-seated infections
+1.  Prevent emergence of resistance
+2.  Exploit the seesaw effect
+3.  Enhance bactericidal activity
+4.  Treat complicated/deep-seated infections
 
-:::{.notes}
+::: aside
 Combination therapy is increasingly used, especially for endocarditis and persistent bacteremia. The evidence base is largely from in vitro, animal, and retrospective human studies.
 :::
 
----
+
 
 ## Daptomycin + β-lactam
+
 <br>
 
 **Best supported combination:**
@@ -565,50 +575,51 @@ Combination therapy is increasingly used, especially for endocarditis and persis
 - Ertapenem
 - Even ampicillin-sulbactam
 
-:::{.notes}
+::: aside
 Ceftaroline is particularly interesting because it has intrinsic anti-MRSA activity AND provides the seesaw synergy. Multiple case reports show success with daptomycin + ceftaroline for otherwise refractory MRSA infections.
 :::
 
----
 
-## Other Combinations
+
+## Other combinations
+
 <br>
 
-| Partner | Evidence | Comment |
-|---------|----------|---------|
-| Gentamicin | In vitro synergy | Nephrotoxicity concern |
-| Rifampin | Variable | May be antagonistic |
-| Fosfomycin | Emerging data | Limited availability |
-| Trimethoprim-sulfamethoxazole | Case reports | For MRSA |
+| Partner                       | Evidence         | Comment                |
+|-------------------------------|------------------|------------------------|
+| Gentamicin                    | In vitro synergy | Nephrotoxicity concern |
+| Rifampin                      | Variable         | May be antagonistic    |
+| Fosfomycin                    | Emerging data    | Limited availability   |
+| Trimethoprim-sulfamethoxazole | Case reports     | For MRSA               |
 
-:::{.notes}
+<br> <br>
+
+::: aside
 Be cautious with rifampin - some studies show antagonism. Gentamicin adds synergy but nephrotoxicity risk. The β-lactam combination is generally preferred based on current evidence.
 :::
 
----
 
-## Case Example: Persistent MRSA Bacteremia
+
+## Case example: Persistent MRSA bacteremia
+
 <br>
 
 **Scenario:** Day 7 of vancomycin, blood cultures still positive
 
-**Approach:**
-1. Switch to high-dose daptomycin (8-10 mg/kg)
-2. Add β-lactam (ceftaroline or oxacillin)
-3. Ensure source control
-4. Monitor CPK closely
+**Approach:** 1. Switch to high-dose daptomycin (8-10 mg/kg) 2. Add β-lactam (ceftaroline or oxacillin) 3. Ensure source control 4. Monitor CPK closely
 
-:::{.notes}
+::: aside
 This is a common clinical scenario. Key points: ensure adequate daptomycin dosing, add β-lactam for synergy and to prevent resistance, and don't forget about source control - undrained foci are the #1 reason for persistence.
 :::
 
----
 
-# Part 9: Quinupristin-Dalfopristin (Brief Overview)
 
----
+# Part 9: Quinupristin-Dalfopristin (Brief Overview) {background-color="#b20e10"}
 
-## Quinupristin-Dalfopristin Basics
+
+
+## Quinupristin-dalfopristin basics
+
 <br>
 
 - Streptogramin B (30%) + Streptogramin A (70%)
@@ -620,13 +631,13 @@ This is a common clinical scenario. Key points: ensure adequate daptomycin dosin
   - Infusion site reactions
   - Limited availability
 
-:::{.notes}
+::: aside
 Q-D is included for completeness but is rarely used. It was approved for VRE but that approval was withdrawn. Main remaining use is selected VRE infections in combination with other agents.
 :::
 
----
 
-## Q-D Spectrum & Dosing
+## Quinupristin-dalfopristin spectrum & dosing
+
 <br>
 
 **Active against:**
@@ -638,13 +649,14 @@ Q-D is included for completeness but is rarely used. It was approved for VRE but
 
 **No renal adjustment needed**
 
-:::{.notes}
+::: aside
 The intrinsic resistance of E. faecalis is important - limits utility for VRE infections. Hepatic dose reduction may be considered. CYP3A4 inhibitor - watch for drug interactions!
 :::
 
----
 
-## Q-D: Why It's Rarely Used
+
+## Quinupristin-dalfopristin: Why it's rarely used 
+
 <br>
 
 - Arthralgias/myalgias (up to 50%)
@@ -654,32 +666,34 @@ The intrinsic resistance of E. faecalis is important - limits utility for VRE in
 - Limited availability in US
 - Better alternatives exist (linezolid, daptomycin)
 
-:::{.notes}
+::: aside
 In practice, daptomycin and linezolid have largely replaced Q-D. It may still have a role in combination with daptomycin for refractory VRE infections.
 :::
 
----
 
-# Summary & Key Takeaways
 
----
+# Summary & Key Takeaways {background-color="#b20e10"}
 
-## Daptomycin Key Points
+
+
+## Daptomycin key points
+
 <br>
 
-1. **Calcium-dependent** cyclic lipopeptide
-2. Bactericidal without cell lysis
-3. Spectrum similar to vancomycin but active against VISA/VRE
-4. **Never use for pneumonia** (surfactant inactivation)
-5. Monitor **CPK** - stop if elevated with symptoms
-6. Use **high doses** (8-12 mg/kg) for serious infections
+1.  **Calcium-dependent** cyclic lipopeptide
+2.  Bactericidal without cell lysis
+3.  Spectrum similar to vancomycin but active against VISA/VRE
+4.  **Never use for pneumonia** (surfactant inactivation)
+5.  Monitor **CPK** - stop if elevated with symptoms
+6.  Use **high doses** (8-12 mg/kg) for serious infections
 
----
 
-## Clinical Pearls
+
+## Clinical pearls
+
 <br>
 
-:::{.callout-tip}
+::: callout-tip
 - Consider daptomycin when vancomycin MIC ≥1.5-2 μg/mL
 - Add β-lactam for persistent bacteremia
 - The "seesaw effect" makes β-lactam combinations logical
@@ -687,42 +701,23 @@ In practice, daptomycin and linezolid have largely replaced Q-D. It may still ha
 - Check CPK baseline and weekly; more often with renal impairment or statins
 :::
 
----
+
 
 ## Questions to Consider
+
 <br>
 
-1. Why can't daptomycin be used for pneumonia?
-2. What is the seesaw effect and how is it clinically useful?
-3. When should you suspect daptomycin resistance?
-4. What CPK level should prompt discontinuation?
-5. Why is high-dose daptomycin preferred for serious infections?
+1.  Why can't daptomycin be used for pneumonia?
+2.  What is the seesaw effect and how is it clinically useful?
+3.  When should you suspect daptomycin resistance?
+4.  What CPK level should prompt discontinuation?
+5.  Why is high-dose daptomycin preferred for serious infections?
 
-:::{.notes}
-Use these questions for audience engagement or as study/review questions. Answers covered throughout lecture.
-:::
 
----
 
 ## References
+
 <br>
 
-See accompanying bibliography file for complete citations
 
-Key sources:
 
-- Mandell, Douglas & Bennett's *Principles and Practice of Infectious Diseases*
-- IDSA Guidelines
-- CLSI/EUCAST Breakpoint Documents
-- FDA Prescribing Information
-
----
-
-# Thank You
-
-## Questions?
-<br>
-
-:::{.notes}
-Open for questions. Remind students about common exam topics: mechanism, spectrum, contraindications (pneumonia!), adverse effects (CPK monitoring), and dosing strategies.
-:::
