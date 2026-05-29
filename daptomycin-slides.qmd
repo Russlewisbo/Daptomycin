@@ -92,6 +92,9 @@ The structure shows the cyclic peptide core with a lipophilic tail (decanoic aci
 The calcium dependence is clinically important because susceptibility testing must use calcium-supplemented media. The binding at the division septum may explain why actively dividing cells are more susceptible. Recent work shows daptomycin also interacts with lipid-II, forming a tripartite complex that impedes peptidoglycan synthesis.
 :::
 
+:::{.refs}
+[@Silverman2003; @Pogliano2012; @Jung2004; @MullerA2016]
+:::
 
 ## Key Feature: Bactericidal without lysis
 
@@ -106,6 +109,9 @@ The calcium dependence is clinically important because susceptibility testing mu
 This may be a clinical advantage compared to β-lactams and vancomycin, which cause cell lysis and release of inflammatory mediators. It has been hypothesized that this may translate to less inflammatory injury in infections like endocarditis.
 :::
 
+:::{.refs}
+[@Silverman2003]
+:::
 
 # Part 2: Antimicrobial spectrum {background-color="#b20e10"}
 
@@ -166,6 +172,9 @@ Daptomycin is inactivated by pulmonary surfactant and should NEVER be used for p
 Susceptibility testing for daptomycin is notoriously challenging. Labs should be aware that results can vary significantly. When possible, broth microdilution should be used, especially for serious infections.
 :::
 
+:::{.refs}
+[@Campeau2018; @Humphries2011]
+:::
 
 ## Susceptibility breakpoints
 
@@ -182,6 +191,9 @@ Susceptibility testing for daptomycin is notoriously challenging. Labs should be
 Note the important 2019 CLSI change for E. faecium - the susceptible category was eliminated! The SDD (susceptible dose-dependent) category requires high-dose daptomycin (8-12 mg/kg/day). EUCAST has not established breakpoints for daptomycin.
 :::
 
+:::{.refs}
+[@CLSI2019]
+:::
 
 # Part 3: Resistance Mechanisms {background-color="#b20e10"}
 
@@ -202,6 +214,9 @@ Note the important 2019 CLSI change for E. faecium - the susceptible category wa
 The key message is that while spontaneous resistance is rare, on-treatment emergence is a real concern, especially with undrained foci. This is why source control is essential and why combination therapy may be considered for complicated infections.
 :::
 
+:::{.refs}
+[@Silverman2001; @Fowler2006; @Sakoulas2006]
+:::
 
 ## Phenotypic changes in resistant strains
 
@@ -218,7 +233,9 @@ The key message is that while spontaneous resistance is rare, on-treatment emerg
 These changes all converge on reducing daptomycin's ability to bind and insert into the membrane. The reduction in phosphatidylglycerol is particularly important as this is the primary membrane target.
 :::
 
-
+:::{.refs}
+[@Mishra2012; @Sakoulas2006]
+:::
 
 ## Genetic basis (*S. aureus*)
 
@@ -238,7 +255,9 @@ Key genes implicated:
 Understanding these mechanisms helps explain the seesaw effect. Mutations that increase positive charge or decrease phosphatidylglycerol to resist daptomycin often make the organism more susceptible to β-lactams. This is the basis for combination therapy.
 :::
 
-
+:::{.refs}
+[@Yang2009; @Howden2011; @Yang2010; @Peleg2012; @Arias2011]
+:::
 
 ## The "Seesaw effect"
 
@@ -257,7 +276,9 @@ Daptomycin resistance often leads to **increased β-lactam susceptibility**
 This is one of the most important practical concepts. When you see a patient failing daptomycin or with an isolate showing elevated MICs, consider adding a β-lactam. Even against MRSA, adding oxacillin or ceftaroline can be beneficial - not because of intrinsic activity, but because of the seesaw effect.
 :::
 
-
+:::{.refs}
+[@Mehta2012; @Dhand2011]
+:::
 
 ## Enterococcal resistance
 
@@ -273,7 +294,9 @@ This is one of the most important practical concepts. When you see a patient fai
 Enterococcal resistance appears to be evolving somewhat independently of staphylococcal resistance. The LiaFSR system acts as a "sentinel" detecting antimicrobial peptides and orchestrating the stress response.
 :::
 
-
+:::{.refs}
+[@Arias2011b; @Tran2013; @Khan2019]
+:::
 
 # Part 4: Pharmacokinetics {background-color="#b20e10"}
 
@@ -294,7 +317,9 @@ Enterococcal resistance appears to be evolving somewhat independently of staphyl
 The long half-life supports once-daily dosing. High protein binding means the drug distributes mainly to plasma and interstitial fluid. Primarily renal elimination necessitates dose adjustment in renal impairment.
 :::
 
-
+:::{.refs}
+[@Dvorchik2003; @Benvenuto2006]
+:::
 
 ## Peak concentrations by dose
 
@@ -312,6 +337,9 @@ The long half-life supports once-daily dosing. High protein binding means the dr
 Note the linear pharmacokinetics up to 12 mg/kg. This supports the use of high-dose daptomycin in serious infections. PK/PD parameters correlating with efficacy are peak/MIC and AUC/MIC ratios.
 :::
 
+:::{.refs}
+[@Dvorchik2003; @Benvenuto2006; @Louie2001]
+:::
 
 ## Tissue penetration
 
@@ -332,7 +360,9 @@ Note the linear pharmacokinetics up to 12 mg/kg. This supports the use of high-d
 DO NOT use for pneumonia! The good penetration into vegetations supports its use in endocarditis. Despite poor bone penetration, it has been used successfully in osteomyelitis, possibly due to concentration-dependent killing.
 :::
 
-
+:::{.refs}
+[@Wise2002; @Cottagnoud2004; @Lee2008; @Traunmuller2010]
+:::
 
 # Part 5: Dosing {background-color="#b20e10"}
 
@@ -359,7 +389,9 @@ Experts recommend **8-12 mg/kg/day** for serious infections!
 This is a critical point - FDA-approved doses are considered by many experts to be inadequate for serious infections. Data shows better outcomes with higher doses, especially for bacteremia with high mortality risk.
 :::
 
-
+:::{.refs}
+[@Arbeit2004; @Fowler2006; @Falcone2013; @Kullar2013]
+:::
 
 ## Renal dose adjustment
 
@@ -376,7 +408,9 @@ This is a critical point - FDA-approved doses are considered by many experts to 
 For patients on CRRT, there's no uniform recommendation. Drug monitoring may be helpful. Some suggest 8 mg/kg q48h for CVVHDF. Monitor CPK more frequently in renal impairment.
 :::
 
-
+:::{.refs}
+[@FDA2020; @Khadzhynov2011; @Kielstein2014]
+:::
 
 ## Special populations
 
@@ -391,7 +425,9 @@ For patients on CRRT, there's no uniform recommendation. Drug monitoring may be 
 For pediatrics, doses are weight and age-based: 12-17 years: 5 mg/kg, 7-11 years: 7 mg/kg, 2-6 years: 9 mg/kg, 12-23 months: 12 mg/kg.
 :::
 
-
+:::{.refs}
+[@FDA2020; @Gonzalez2017; @Ardura2007]
+:::
 
 # Part 6: Adverse effects {background-color="#b20e10"}
 
@@ -413,7 +449,9 @@ For pediatrics, doses are weight and age-based: 12-17 years: 5 mg/kg, 7-11 years
 Muscle toxicity was the reason daptomycin was initially shelved. Once-daily dosing dramatically reduced this, but it remains the primary monitoring concern. The microscopic findings show degeneration-regeneration without lysis or fibrosis.
 :::
 
-
+:::{.refs}
+[@Bhavnani2010; @Dare2018; @McConnell2017]
+:::
 
 ## CPK monitoring & management
 
@@ -435,7 +473,9 @@ Muscle toxicity was the reason daptomycin was initially shelved. Once-daily dosi
 Symptoms typically appear after 7+ days of therapy and resolve within 3 days of stopping. Consider holding statins during daptomycin therapy if possible.
 :::
 
-
+:::{.refs}
+[@Fowler2006; @Arbeit2004; @Bhavnani2010]
+:::
 
 ## Other adverse effects
 
@@ -455,7 +495,9 @@ Symptoms typically appear after 7+ days of therapy and resolve within 3 days of 
 Eosinophilic pneumonia is rare but potentially serious. Classic presentation: fever, dyspnea, pulmonary infiltrates, eosinophilia (peripheral or in BAL). High clinical suspicion needed - resolves with discontinuation, corticosteroids may help.
 :::
 
-
+:::{.refs}
+[@Fowler2006; @Silverman2007]
+:::
 
 ## Drug Interactions
 
@@ -472,6 +514,9 @@ Monitor closely with:
 The lack of CYP450 metabolism is advantageous as it reduces drug-drug interactions. However, the combination with statins is particularly important given the shared muscle toxicity concern.
 :::
 
+:::{.refs}
+[@Dare2018; @McConnell2017]
+:::
 
 # Part 7: Clinical applications
 
@@ -491,6 +536,9 @@ The lack of CYP450 metabolism is advantageous as it reduces drug-drug interactio
 These are the official indications, but daptomycin is widely used off-label for other gram-positive infections, particularly VRE infections and left-sided endocarditis when other options fail.
 :::
 
+:::{.refs}
+[@Arbeit2004; @Fowler2006]
+:::
 
 ## Off-label uses
 
@@ -522,7 +570,9 @@ For VRE, daptomycin is often a first-line choice given limited alternatives. For
 The threshold for switching from vancomycin based on MIC is debated, but many clinicians become concerned with MICs approaching or at 2 μg/mL (the current breakpoint). Retrospective data suggest better outcomes with daptomycin in these scenarios.
 :::
 
-
+:::{.refs}
+[@Murray2013; @Kullar2011b; @Moore2012]
+:::
 
 ## When NOT to use daptomycin
 
@@ -561,7 +611,9 @@ The pneumonia contraindication cannot be overemphasized. This is true even for M
 Combination therapy is increasingly used, especially for endocarditis and persistent bacteremia. The evidence base is largely from in vitro, animal, and retrospective human studies.
 :::
 
-
+:::{.refs}
+[@Mehta2012; @Dhand2011; @Sakoulas2014]
+:::
 
 ## Daptomycin + β-lactam
 
@@ -579,7 +631,11 @@ Combination therapy is increasingly used, especially for endocarditis and persis
 Ceftaroline is particularly interesting because it has intrinsic anti-MRSA activity AND provides the seesaw synergy. Multiple case reports show success with daptomycin + ceftaroline for otherwise refractory MRSA infections.
 :::
 
+:::{.refs}
+[@Dhand2011; @Barber2015; @Sakoulas2014b; @Mehta2012]
+:::
 
+## Other combinations
 
 ## Other combinations
 
@@ -592,13 +648,15 @@ Ceftaroline is particularly interesting because it has intrinsic anti-MRSA activ
 | Fosfomycin                    | Emerging data    | Limited availability   |
 | Trimethoprim-sulfamethoxazole | Case reports     | For MRSA               |
 
-<br> <br>
-
 ::: aside
 Be cautious with rifampin - some studies show antagonism. Gentamicin adds synergy but nephrotoxicity risk. The β-lactam combination is generally preferred based on current evidence.
 :::
 
+:::{.refs}
+[@Credito2007; @Rose2012]
+:::
 
+## Case example: Persistent MRSA bacteremia
 
 ## Case example: Persistent MRSA bacteremia
 
@@ -612,7 +670,9 @@ Be cautious with rifampin - some studies show antagonism. Gentamicin adds synerg
 This is a common clinical scenario. Key points: ensure adequate daptomycin dosing, add β-lactam for synergy and to prevent resistance, and don't forget about source control - undrained foci are the #1 reason for persistence.
 :::
 
-
+:::{.refs}
+[@Dhand2011; @Fowler2006; @Kullar2013]
+:::
 
 # Part 9: Quinupristin-Dalfopristin (Brief Overview) {background-color="#b20e10"}
 
@@ -719,5 +779,6 @@ In practice, daptomycin and linezolid have largely replaced Q-D. It may still ha
 
 <br>
 
-
+:::{#refs}
+:::
 
