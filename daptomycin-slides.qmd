@@ -516,6 +516,8 @@ The pneumonia contraindication cannot be overemphasized. This is true even for M
 3.  Enhance bactericidal activity
 4.  Treat complicated/deep-seated infections
 
+<br><br>
+
 ::: aside
 Combination therapy is increasingly used, especially for endocarditis and persistent bacteremia. The evidence base is largely from in vitro, animal, and retrospective human studies [@Mehta2012; @Dhand2011; @Sakoulas2014].
 :::
@@ -564,6 +566,8 @@ Be cautious with rifampin - some studies show antagonism. Gentamicin adds synerg
 2.  Add β-lactam (ceftaroline or oxacillin)
 
 3.  Ensure source control 4. Monitor CPK closely
+
+<br> <br>
 
 ::: aside
 This is a common clinical scenario. Key points: ensure adequate daptomycin dosing, add β-lactam for synergy and to prevent resistance, and don't forget about source control - undrained foci are the #1 reason for persistence [@Dhand2011; @Fowler2006; @Kullar2013].
@@ -658,6 +662,14 @@ In practice, daptomycin and linezolid have largely replaced Q-D. It may still ha
 ## References
 
 <br>
+
+```{=html}
+<style>
+#refs .csl-entry {
+  margin-bottom: 1em;
+}
+</style>
+```
 
 ::: {#refs}
 :::
