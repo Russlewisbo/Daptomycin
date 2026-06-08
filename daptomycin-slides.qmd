@@ -425,7 +425,7 @@ Symptoms typically appear after 7+ days of therapy and resolve within 3 days of 
 Eosinophilic pneumonia is rare but potentially serious. Classic presentation: fever, dyspnea, pulmonary infiltrates, eosinophilia (peripheral or in BAL). High clinical suspicion needed - resolves with discontinuation, corticosteroids may help [@Fowler2006; @Silverman2007].
 :::
 
-## Drug Interactions
+## Drug interactions
 
 <br>
 
