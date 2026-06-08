@@ -312,6 +312,53 @@ Another approach includes the coadministration of a β-lactam plus daptomycin to
 
 Therefore, based on the concentration-dependent activity of daptomycin and the reported risk of development of resistance during treatment of deep-seated staphylococcal infections, clinicians often use high-dose daptomycin (e.g., 8–10 mg/kg/day), especially in patients in whom vancomycin therapy has previously failed. Other approaches considered by some experts include the use of combination therapy (with rifampin, gentamicin, or β-lactams) when treating serious infections caused by staphylococci.
 
+### Case Example: Persistent MRSA Bacteremia
+
+:::{.callout-tip title="Clinical Scenario"}
+**Presentation:** A patient has been on vancomycin for 7 days, but blood cultures remain positive for MRSA.
+
+**Recommended approach:**
+
+1. Switch to **high-dose daptomycin** (8–10 mg/kg/day)
+2. Add a **β-lactam** (ceftaroline or oxacillin) to exploit the seesaw effect and prevent resistance emergence
+3. Ensure **adequate source control** — undrained foci are the most common reason for persistent bacteremia
+4. Monitor **CPK closely**, especially with high-dose therapy
+
+This scenario illustrates several key principles: the importance of adequate daptomycin dosing for serious infections, the rationale for β-lactam combination therapy, and the critical role of source control in achieving microbiologic clearance.
+:::
+
+# Quinupristin-Dalfopristin
+
+## Overview
+
+Quinupristin-dalfopristin (trade name: Synercid) is a combination of a streptogramin B (quinupristin, 30%) and a streptogramin A (dalfopristin, 70%). The two components act synergistically on the 50S ribosomal subunit of the 70S ribosome during the elongation stage of protein synthesis.
+
+## Spectrum of Activity
+
+Quinupristin-dalfopristin is active against most gram-positive organisms, with the notable exception of *Enterococcus faecalis*, which exhibits intrinsic resistance. The combination also has activity against select gram-negative organisms, including *Haemophilus influenzae* and *Moraxella catarrhalis*.
+
+Variable rates of resistance among *Enterococcus faecium* isolates have been reported, while *Staphylococcus* spp. strains with elevated MICs to quinupristin-dalfopristin have been rare.
+
+## Dosing and Administration
+
+The intravenous dose is 7.5 mg/kg every 12 hours, administered as a 1-hour infusion. It is indicated for ABSSSI caused by *S. aureus* and *Streptococcus pyogenes*. Dosage adjustment is not required in renal failure, though a lower dose may be considered in the setting of hepatic disease.
+
+:::{.callout-warning title="CYP3A4 Interactions"}
+Quinupristin-dalfopristin is an inhibitor of the cytochrome P-450 3A4 isoenzyme system and may increase the levels of drugs metabolized through this pathway. This is an important distinction from daptomycin, which has minimal CYP450 interactions.
+:::
+
+## Limitations and Current Clinical Role
+
+Despite its initial approval for VRE infections, quinupristin-dalfopristin is rarely used in contemporary clinical practice for several reasons:
+
+- **Arthralgias and myalgias** — reported in up to 50% of patients, frequently leading to drug discontinuation
+- **Severe infusion site reactions** — peripheral intravenous administration is poorly tolerated, typically necessitating central venous access
+- **Limited availability** — the Italian marketing authorization has been revoked, and supply is limited in many other regions
+- **CYP3A4 drug interactions** — complicating use in patients receiving multiple medications
+- **Availability of better alternatives** — daptomycin and linezolid have largely supplanted quinupristin-dalfopristin for most gram-positive infections
+
+The FDA approval of quinupristin-dalfopristin for VRE was withdrawn after initial trials failed to prove clinical benefit; however, anecdotal cases of success, usually in combination with other agents, for serious VRE infections suggest it may still have a role in selected patients. It may also retain utility in combination with daptomycin for refractory VRE infections when other options have been exhausted.
+
 # Summary and Key Clinical Pearls
 
 ## Daptomycin Key Points
@@ -331,6 +378,14 @@ Therefore, based on the concentration-dependent activity of daptomycin and the r
 - Statins increase CPK risk — consider holding during daptomycin therapy
 - In patients on CRRT, drug levels are highly variable; therapeutic drug monitoring is recommended when feasible
 :::
+
+# Study Questions
+
+1. Why can't daptomycin be used for the treatment of pneumonia?
+2. What is the seesaw effect and how is it clinically useful?
+3. When should you suspect the emergence of daptomycin resistance during therapy?
+4. At what CPK level should daptomycin be discontinued?
+5. Why is high-dose daptomycin (8–12 mg/kg/day) preferred over FDA-approved doses for serious infections?
 
 # References
 
